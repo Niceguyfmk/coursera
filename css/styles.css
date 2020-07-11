@@ -10,6 +10,15 @@
     min-height: 400px;
 }
 
+.about-us{
+    width: 100%;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
 .footer{
     background-color: #D1c4E9;
     margin: 0px auto;
